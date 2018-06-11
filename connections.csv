@@ -1,0 +1,6 @@
+servers,dc01.utdallas.edu,4321
+servers,dc02.utdallas.edu,4321
+servers,dc03.utdallas.edu,4321
+clients,dc04.utdallas.edu,4334
+clients,dc05.utdallas.edu,4334
+meta,dc41.utdallas.edu,61000
